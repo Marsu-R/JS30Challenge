@@ -60,7 +60,7 @@ function scrub(e) {
   //console.log(e);
 }
 
-// function to go fullscreen - not finished
+// function to go fullscreen
 function toggleFullscreen() {
   //console.log("BEFORE click:", player.classList);
   player.classList.toggle("fullscreen"); // this adds and removes the fullscreen class to the player when clicked
