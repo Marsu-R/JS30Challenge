@@ -38,6 +38,7 @@ function paintToCanvas() {
     // mess with them
     // pixels = redEffect(pixels);
     // pixels = rgbSplit(pixels);
+    // alpha value for ghost effect:
     // ctx.globalAlpha = 0.8;
     pixels = greenScreen(pixels);
     // put them back
